@@ -8,7 +8,7 @@ This repository contains resources developed within the following paper:
 
 Sadri, Amin, Flora D. Salim, Yongli Ren, Masoomeh Zameni, Jeffrey Chan, and Timos Sellis. "Shrink: Distance preserving graph compression." Information Systems 69 (2017): 180-193.
   
-You can find the `paper/` and `presentation/` in this repository. 
+You can find the [paper](https://github.com/cruiseresearchgroup/Graph-Compression-Shrink-/blob/master/paper/1-s2.0-S0306437916306573-main.pdf) and [presentation](https://github.com/cruiseresearchgroup/Graph-Compression-Shrink-/blob/master/Presentation/ShrinkPresentation.pptx) in this repository. 
 
 Alternative link: https://www.sciencedirect.com/science/article/pii/S0306437916306573
 
