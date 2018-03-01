@@ -25,9 +25,11 @@ The codes are available in `code/`.
 Input format: 
 - Each row of the input file denotes an undirected edge. 
 - The first two entries of each row denote the nodes of the edge and the third value is the edge weight. (e.g.  5 7 8.2 means there is an edge between node 5 and 7 and the weight is 8.2)
+- If the graph is unweighted, comment line number 69 in Shortesstpath.java. In this case each, the program reads two values from each line. 
 - The seprator between the numbers is space.
 - The nodes must be labeled from 1 to the maximum number of nodes.
 - The compression ratio is the (Original graph size)/(Coarse graph size).
+
 
 The program gets the input file address (e.g. "H:\Datasets\graph.txt") and returns the output file in the same folder. The output file has ".out" extention (e.g. "graph.txt.out").
 
