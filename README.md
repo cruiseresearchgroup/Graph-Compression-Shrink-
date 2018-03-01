@@ -6,7 +6,8 @@ The ever increasing size of graphs makes them difficult to query and store. In t
 
 This repository contains resources developed within the following paper:
 
-Sadri, Amin, Flora D. Salim, Yongli Ren, Masoomeh Zameni, Jeffrey Chan, and Timos Sellis. "Shrink: Distance preserving graph compression." Information Systems 69 (2017): 180-193.
+	Sadri, A., Salim, F. D., Ren, Y., Zameni, M., Chan, J., & Sellis, T. (2017). 
+	Shrink: Distance preserving graph compression. Information Systems, 69, 180-193.
   
 You can find the [paper](https://github.com/cruiseresearchgroup/Graph-Compression-Shrink-/blob/master/paper/1-s2.0-S0306437916306573-main.pdf) and [presentation](https://github.com/cruiseresearchgroup/Graph-Compression-Shrink-/blob/master/Presentation/ShrinkPresentation.pptx) in this repository. 
 
