@@ -1,3 +1,6 @@
+> **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
+*The BibTeX entry is provided at the bottom of this page. 
+
 # Graph-Compression (Shrink)
 
 Shrink: Distance preserving graph compression
@@ -34,6 +37,7 @@ Input format:
 
 The program gets the input file address (e.g. "H:\Datasets\graph.txt") and returns the output file in the same folder. The output file has ".out" extention (e.g. "graph.txt.out").
 
+## Possible Applications
 
 ## Citation
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
